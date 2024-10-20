@@ -1,0 +1,2 @@
+here you are going to put your Maritaca API key
+and here you will put your Tavily API key
